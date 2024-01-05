@@ -1,4 +1,4 @@
-### 👋 Hi there. My name is Joshua Moreira and here are a few things about myself:
+### 👋 Hi there, my name is Joshua Moreira and here are a few things about myself:
 
 - 🔭 I’m currently working on a script to automate the task of changing skin slots when modding Smash Ultimate
 - 🌱 I’m currently learning Python scripting
