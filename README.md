@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my [Terraria Bingo Game](https://github.com/OfficialArms/terraria-bingo)
 - 🌱 I’m learning to create electronics and single-page applications
-- 👀 I'm interested in front-end development and old video game consoles
+- 👀 I'm interested in software development and old video game consoles
 - 📫 How to reach me: joshuamoreira3@gmail.com
 
 <!-- **OfficialArms/OfficialArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
